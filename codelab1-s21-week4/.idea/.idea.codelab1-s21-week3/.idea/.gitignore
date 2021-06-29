@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/.idea.codelab1-s21-week3.iml
+/contentModel.xml
+/projectSettingsUpdater.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../../../../../:\Users\Alise\Dropbox\My PC (DESKTOP-5H29H7I)\Desktop\gc\summer code class\inClassCode\al6593-SHW-Week4\codelab1-s21-week3\.idea\.idea.codelab1-s21-week3\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
